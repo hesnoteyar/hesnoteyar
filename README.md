@@ -2,7 +2,27 @@
 
 ###
 
-<p align="left">My name is Ey.ar and I'm a Tech Nerd but I focus on Web Development from Philippines, Makati City</p>
+<p align="left">My name is Ey.ar, a tech-driven problem solver from Makati City, Philippines. I’m a passionate Web Developer with a strong foundation in programming, data security, and network technologies. I build modern, scalable, and user-focused digital solutions—ranging from websites and eCommerce systems to custom automation tools and app integrations.<br><br>I’m also the founder of Axionbyte, a startup focused on helping businesses grow through smart, clean, and efficient web solutions. As a lifelong tech nerd, I love exploring new technologies, creating practical systems, and turning complex ideas into simple, usable products.</p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/noel-saranza-626111256/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="_.eyar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/_.eyar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
 
@@ -10,7 +30,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Flutter<br>🎯 Goals: Be a Full Stack Software Engineer<br>🎲 Fun fact: I play games ... A LOT!</p>
+<p align="left">✨ Breaking and fixing code since 2016<br>📚 Currently diving deep into Flutter & mobile development<br>🎯 Goal: Become a highly skilled Full Stack Software Engineer<br>🎮 Fun fact: I play games… a lot (like, “one more match” until 4 AM type of a lot)</p>
 
 ###
 
@@ -50,6 +70,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/hesnoteyar/hesnoteyar/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hesnoteyar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hesnoteyar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
